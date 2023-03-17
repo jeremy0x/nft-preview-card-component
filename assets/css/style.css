@@ -166,23 +166,6 @@ body {
   color: var(--white);
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-  padding-block: 0.2rem;
-  background-color: var(--main-bg);
-
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
-.attribution a {
-  color: var(--soft-blue);
-  text-decoration: none;
-}
-
 *::-webkit-scrollbar {
   width: 4px;
   background-color: var(--main-bg);
